@@ -4,6 +4,8 @@ The following projects were a part of CS 6375, a Graduate Level Machine Learning
 
 Most, if not all machine learning algorithms, we programmed from the ground up.
 
+Posted are jupyter notebooks converted to an HTML format.
+
 ### Text Classification with Naive Bayes, MCAP, and Logistic Regression
 ### Netflix Recommendation System 
 ### K-Means Image Compression
